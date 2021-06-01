@@ -1,0 +1,8 @@
+﻿  ImageProcess.cpp
+c:\users\student\desktop\oopfinal1\oopfinal1\oopfinal\reeceassessoop12\reeceassessoop12\project1\project1\imageprocess.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\student\desktop\oopfinal1\oopfinal1\oopfinal\reeceassessoop12\reeceassessoop12\project1\project1\imageprocess.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\student\desktop\oopfinal1\oopfinal1\oopfinal\reeceassessoop12\reeceassessoop12\project1\project1\imageprocess.cpp(55): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ReadWriteFunctions.cpp
+c:\users\student\desktop\oopfinal1\oopfinal1\oopfinal\reeceassessoop12\reeceassessoop12\project1\project1\readwritefunctions.cpp(85): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Student\Desktop\OOPFINAL1\OOPFINAL1\OOPFINAL\ReeceAssessOOP12\ReeceAssessOOP12\Project1\Debug\Project1.exe
